@@ -14,6 +14,7 @@ const cities = [
 window.addEventListener('DOMContentLoaded', betolt);
 
 function betolt() {
+    //valami
     // ---- fő konténer div létrehozása ----
     const containerDiv = document.createElement('div');
     containerDiv.classList.add('container');
